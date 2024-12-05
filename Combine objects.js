@@ -15,9 +15,9 @@ function combine() {
          }
      }
      return objRes;
- }// Код домашки
+ }// РљРѕРґ РґРѕРјР°С€РєРё
 
 
-console.log(objA);// Проверка , не изменился-ли объект
+console.log(objA);
 
 console.log(combine(objA, objC, objD, objB ));
