@@ -3,7 +3,7 @@ Object.prototype.hash = function(string) {
     return string.split('.').reduce((obj, key) => {
       return (obj && obj[key] !== undefined) ? obj[key] : undefined;
     }, this);
-  }// вот код домашки
+  }// РєРѕРґ РґРѕРјР°С€РєРё
   
 
   var obj = {
