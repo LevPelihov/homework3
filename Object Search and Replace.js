@@ -15,7 +15,7 @@ function solution (data, replace) {
     }
     return data;
   
-  }// Код домашки
+  }// РєРѕРґ РґРѕРјР°С€РєРё
 
 
 
